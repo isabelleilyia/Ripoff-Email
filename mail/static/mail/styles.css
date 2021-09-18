@@ -1,0 +1,17 @@
+textarea {
+    min-height: 400px;
+}
+
+.sender {
+    font-size:14px;
+    font-weight:bold;
+    margin-bottom:5px;
+}
+.archive {
+    float:right;
+    margin-right:-60px
+}
+.reply {
+    float:right;
+    margin-right:-140px
+}
